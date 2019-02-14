@@ -2,5 +2,21 @@ body {
     min-height: 75rem;
     padding-top: 4.5rem;
     background-image: url("../images/mosaic.png");
+}
+
+.jumbotron {
+    background-color: #ffffff;
+}
+
+.footer-copyright {
+    background-color: #666666;
+    border-top: 8px solid #4a85aa;
+}
+
+.navbar {
+    border-bottom: 3px solid #cccccc;
+    background-color: #ffffff;
+    background-image: none;
+    background-repeat: no-repeat;
 
 }
